@@ -1,0 +1,1 @@
+lifetime = 300; // 5 segundos a 60 FPS

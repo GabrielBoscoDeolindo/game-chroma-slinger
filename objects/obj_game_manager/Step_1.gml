@@ -1,0 +1,1 @@
+global.enemy_sounds_this_frame = 0;
